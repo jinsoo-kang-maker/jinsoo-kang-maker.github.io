@@ -2,76 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/Battlefront/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/Star-Wars/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/promo/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/challenge/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/Bloodborne/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/PVP/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/Music/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/Schmoyoho/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/Song/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/iTunes/</loc>
-        <lastmod>2016-01-06T16:53:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://jinsoo-kang-maker.github.io/tags/Christmas/</loc>
         <lastmod>2016-01-19T17:54:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -86,13 +16,6 @@
     </url>
 
     <url>
-        <loc>http://jinsoo-kang-maker.github.io/tags/Gaming/</loc>
-        <lastmod>2016-01-19T17:56:11.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://jinsoo-kang-maker.github.io/tags/Charity/</loc>
         <lastmod>2016-01-19T17:56:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,6 +25,83 @@
     <url>
         <loc>http://jinsoo-kang-maker.github.io/tags/Best-Fiends/</loc>
         <lastmod>2016-01-19T17:56:11.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/Bloodborne/</loc>
+        <lastmod>2016-01-19T17:58:21.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/PVP/</loc>
+        <lastmod>2016-01-19T17:58:21.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/Music/</loc>
+        <lastmod>2016-01-19T17:58:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/Schmoyoho/</loc>
+        <lastmod>2016-01-19T17:58:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/Song/</loc>
+        <lastmod>2016-01-19T17:58:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/iTunes/</loc>
+        <lastmod>2016-01-19T17:58:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/Gaming/</loc>
+        <lastmod>2016-01-19T17:59:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/Battlefront/</loc>
+        <lastmod>2016-01-19T17:59:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/Star-Wars/</loc>
+        <lastmod>2016-01-19T17:59:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/promo/</loc>
+        <lastmod>2016-01-19T17:59:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://jinsoo-kang-maker.github.io/tags/challenge/</loc>
+        <lastmod>2016-01-19T17:59:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
