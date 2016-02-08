@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://jinsoo-kang-maker.github.io/"/>
-  <updated>2016-01-19T17:54:46.000Z</updated>
+  <updated>2016-02-08T20:47:35.000Z</updated>
   <id>http://jinsoo-kang-maker.github.io/</id>
   
   <author>
@@ -15,11 +15,140 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[my new post abc]]></title>
+    <link href="http://jinsoo-kang-maker.github.io/2016/02/08/my-new-post-abc/"/>
+    <id>http://jinsoo-kang-maker.github.io/2016/02/08/my-new-post-abc/</id>
+    <published>2016-02-08T20:47:35.000Z</published>
+    <updated>2016-02-08T20:47:35.000Z</updated>
+    <content type="html"><![CDATA[<div class="owl-media owl-video owl-youtube">
+  <iframe src="//www.youtube.com/embed/YOUTUBE_VIDEO_CODE" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe>
+</div>
+<p>Click Here To Become A Bro! ►
+  <a href="http://bit.ly/JoinBroArmy" target="_blank" rel="external">http://bit.ly/JoinBroArmy</a>
+  <br>Get Awesome Games:
+  <a href="http://www.g2a.com/pewdiepie" target="_blank" rel="external">http://www.g2a.com/pewdiepie</a>
+</p>
+<p>MERCHANDISE:
+  <br>PewDiePie Clothing:
+  <br>
+  <a href="http://bit.ly/ShopBro" target="_blank" rel="external">http://bit.ly/ShopBro</a>
+</p>
+<p>My Game:
+  <br>PewDiePie: Legend Of The Brofist
+  <br>Apple:
+  <a href="http://apple.co/1Kxi8rQ" target="_blank" rel="external">http://apple.co/1Kxi8rQ</a>
+  <br>Android:
+  <a href="http://bit.ly/1Pxt8Xw" target="_blank" rel="external">http://bit.ly/1Pxt8Xw</a>
+</p>
+<p>My Book:
+  <br>This Book Loves You
+  <br>
+  <a href="http://www.pewdiepie.com/go/book" target="_blank" rel="external">http://www.pewdiepie.com/go/book</a>
+</p>
+<p>My App:
+  <br>Apple:
+  <a href="http://bit.ly/AppleBro" target="_blank" rel="external">http://bit.ly/AppleBro</a>
+  <br>Android:
+  <a href="http://bit.ly/AndroidBro" target="_blank" rel="external">http://bit.ly/AndroidBro</a>
+</p>
+<p>SOCIALS:
+  <br>Twitter ►
+  <a href="https://twitter.com/pewdiepie" target="_blank" rel="external">https://twitter.com/pewdiepie</a>
+  <br>Facebook ►
+  <a href="http://facebook.com/pewdiepie" target="_blank" rel="external">http://facebook.com/pewdiepie</a>
+  <br>Instagram ►
+  <a href="http://instagram.com/pewdiepie" target="_blank" rel="external">http://instagram.com/pewdiepie</a>
+</p>
+<p>—————————————-­­—
+  <br>Thanks for being a bro!
+  <br>………..
+  <br>………………._
+  <em>
+    <br>…………./´¯/‘…’/´¯¯`·¸
+    <br>………./‘/…/…./……./¨¯\
+    <br>……..(‘(…´…´…. ¯~/‘…’)
+    <br>……….…………….’…../
+    <br>……….’’….……… </em>.·´
+  <br>………….………….(
+  <br>BROFIST ………..</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<div class="owl-media owl-video owl-youtube">
+  <iframe src="//www.youtube.com/embed/YOUTUBE_VIDEO_CODE" frameborder="0" webkitallowfullscre]]>
+    </summary>
+    
+      <category term="Gaming" scheme="http://jinsoo-kang-maker.github.io/tags/Gaming/"/>
+    
+      <category term="Gaming" scheme="http://jinsoo-kang-maker.github.io/categories/Gaming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[New Post 123]]></title>
+    <link href="http://jinsoo-kang-maker.github.io/2016/02/08/New-Post-123/"/>
+    <id>http://jinsoo-kang-maker.github.io/2016/02/08/New-Post-123/</id>
+    <published>2016-02-08T20:43:44.000Z</published>
+    <updated>2016-02-08T20:44:25.000Z</updated>
+    <content type="html"><![CDATA[<h1>My Title</h1>
+
+<p>The </p>
+<p>Click Here To Become A Bro! ►
+  <a href="http://bit.ly/JoinBroArmy" target="_blank" rel="external">http://bit.ly/JoinBroArmy</a>
+  <br>Get Awesome Games:
+  <a href="http://www.g2a.com/pewdiepie" target="_blank" rel="external">http://www.g2a.com/pewdiepie</a>
+</p>
+<p>MERCHANDISE:
+  <br>PewDiePie Clothing:
+  <br>
+  <a href="http://bit.ly/ShopBro" target="_blank" rel="external">http://bit.ly/ShopBro</a>
+</p>
+<p>My Game:
+  <br>PewDiePie: Legend Of The Brofist
+  <br>Apple:
+  <a href="http://apple.co/1Kxi8rQ" target="_blank" rel="external">http://apple.co/1Kxi8rQ</a>
+  <br>Android:
+  <a href="http://bit.ly/1Pxt8Xw" target="_blank" rel="external">http://bit.ly/1Pxt8Xw</a>
+</p>
+<p>My Book:
+  <br>This Book Loves You
+  <br>
+  <a href="http://www.pewdiepie.com/go/book" target="_blank" rel="external">http://www.pewdiepie.com/go/book</a>
+</p>
+<p>My App:
+  <br>Apple:
+  <a href="http://bit.ly/AppleBro" target="_blank" rel="external">http://bit.ly/AppleBro</a>
+  <br>Android:
+  <a href="http://bit.ly/AndroidBro" target="_blank" rel="external">http://bit.ly/AndroidBro</a>
+</p>
+<p>SOCIALS:
+  <br>Twitter ►
+  <a href="https://twitter.com/pewdiepie" target="_blank" rel="external">https://twitter.com/pewdiepie</a>
+  <br>Facebook ►
+  <a href="http://facebook.com/pewdiepie" target="_blank" rel="external">http://facebook.com/pewdiepie</a>
+  <br>Instagram ►
+  <a href="http://instagram.com/pewdiepie" target="_blank" rel="external">http://instagram.com/pewdiepie</a>
+</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1>My Title</h1>
+
+<p>The </p>
+<p>Click Here To Become A Bro! ►
+  <a href="http://bit.ly/JoinBroArmy" target="_blank" rel="external">http://]]>
+    </summary>
+    
+      <category term="Gaming" scheme="http://jinsoo-kang-maker.github.io/tags/Gaming/"/>
+    
+      <category term="Gaming" scheme="http://jinsoo-kang-maker.github.io/categories/Gaming/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[CHRISTMAS SHOPPING SIMULATOR 2015]]></title>
     <link href="http://jinsoo-kang-maker.github.io/2015/12/23/CHRISTMAS-SHOPPING-SIMULATOR-2015/"/>
     <id>http://jinsoo-kang-maker.github.io/2015/12/23/CHRISTMAS-SHOPPING-SIMULATOR-2015/</id>
     <published>2015-12-23T16:43:00.000Z</published>
-    <updated>2016-01-19T17:54:46.000Z</updated>
+    <updated>2016-01-26T20:07:45.000Z</updated>
     <content type="html"><![CDATA[<div class="video-container">
   <iframe src="//www.youtube.com/embed/byj6GEqa70M" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -98,7 +227,7 @@
     <link href="http://jinsoo-kang-maker.github.io/2015/12/22/TRYHARD-Star-Wars-Battlefront-2/"/>
     <id>http://jinsoo-kang-maker.github.io/2015/12/22/TRYHARD-Star-Wars-Battlefront-2/</id>
     <published>2015-12-22T16:40:00.000Z</published>
-    <updated>2016-01-19T17:58:09.000Z</updated>
+    <updated>2016-01-26T20:07:45.000Z</updated>
     <content type="html"><![CDATA[<div class="video-container">
   <iframe src="//www.youtube.com/embed/2KWPSGIaGvA" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -179,7 +308,7 @@
     <link href="http://jinsoo-kang-maker.github.io/2015/12/21/PRO-ONLY-PVP-MLG-BRO-Bloodborne-PvP/"/>
     <id>http://jinsoo-kang-maker.github.io/2015/12/21/PRO-ONLY-PVP-MLG-BRO-Bloodborne-PvP/</id>
     <published>2015-12-21T16:33:00.000Z</published>
-    <updated>2016-01-19T17:58:21.000Z</updated>
+    <updated>2016-01-26T20:07:45.000Z</updated>
     <content type="html"><![CDATA[<div class="video-container">
   <iframe src="//www.youtube.com/embed/Z7Cb9BSp6Hk" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -255,7 +384,7 @@
     <link href="http://jinsoo-kang-maker.github.io/2015/12/20/WOULD-YOU-RATHER/"/>
     <id>http://jinsoo-kang-maker.github.io/2015/12/20/WOULD-YOU-RATHER/</id>
     <published>2015-12-20T16:21:00.000Z</published>
-    <updated>2016-01-19T17:58:39.000Z</updated>
+    <updated>2016-01-26T20:07:45.000Z</updated>
     <content type="html"><![CDATA[<div class="video-container">
   <iframe src="//www.youtube.com/embed/GpOS0l-yoS8" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -330,7 +459,7 @@
     <link href="http://jinsoo-kang-maker.github.io/2015/12/19/I-NEED-YOUR-HELP-BEST-FIENDS-CHARITY/"/>
     <id>http://jinsoo-kang-maker.github.io/2015/12/19/I-NEED-YOUR-HELP-BEST-FIENDS-CHARITY/</id>
     <published>2015-12-19T16:16:00.000Z</published>
-    <updated>2016-01-19T17:56:11.000Z</updated>
+    <updated>2016-01-26T20:07:45.000Z</updated>
     <content type="html"><![CDATA[<div class="video-container">
   <iframe src="//www.youtube.com/embed/pVVphLz8UfU" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -413,7 +542,7 @@
     <link href="http://jinsoo-kang-maker.github.io/2015/12/18/I-m-A-Pretty-Girl-PewDiePie-Song-by-Schmoyoho/"/>
     <id>http://jinsoo-kang-maker.github.io/2015/12/18/I-m-A-Pretty-Girl-PewDiePie-Song-by-Schmoyoho/</id>
     <published>2015-12-18T16:14:00.000Z</published>
-    <updated>2016-01-19T17:58:58.000Z</updated>
+    <updated>2016-01-26T20:07:45.000Z</updated>
     <content type="html"><![CDATA[<div class="video-container">
   <iframe src="//www.youtube.com/embed/6f42pQPP5TU" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -501,7 +630,7 @@
     <link href="http://jinsoo-kang-maker.github.io/2015/12/17/STAR-WARS-CHALLENGE-Star-Wars-Battlefront/"/>
     <id>http://jinsoo-kang-maker.github.io/2015/12/17/STAR-WARS-CHALLENGE-Star-Wars-Battlefront/</id>
     <published>2015-12-17T16:06:00.000Z</published>
-    <updated>2016-01-19T17:59:08.000Z</updated>
+    <updated>2016-01-26T20:07:45.000Z</updated>
     <content type="html"><![CDATA[<div class="video-container">
   <iframe src="//www.youtube.com/embed/gbvvf77pySE" frameborder="0" allowfullscreen></iframe>
 </div>
